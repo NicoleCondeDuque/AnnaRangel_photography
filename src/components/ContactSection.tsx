@@ -13,7 +13,7 @@ const ContactSection = () => {
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-8 mb-16">
-          <a href="mailto:hello@annarangel.com" className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors">
+          <a href="mailto:anyakataeva@hotmail.com" className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors">
             <Mail size={16} />
             <span className="font-body text-sm tracking-wide">anyakataeva@hotmail.com</span>
           </a>
@@ -26,13 +26,12 @@ const ContactSection = () => {
             <span className="font-body text-sm tracking-wide">@anna_rangel_photography</span>
           </a>
         </div>
-
-        <a
-          href="anyakataeva@hotmail.com"
-          className="inline-block border border-foreground px-10 py-4 font-body text-xs tracking-[0.3em] uppercase text-foreground hover:bg-foreground hover:text-background transition-colors duration-300"
-        >
-          Book a Session
-        </a>
+      <a
+  href="mailto:anyakataeva@hotmail.com?subject=Booking%20a%20Session&body=Hi!%20I%20would%20love%20to%20book%20a%20session."
+   className="inline-block border border-foreground px-10 py-4 font-body text-xs tracking-[0.3em] uppercase text-foreground hover:bg-foreground hover:text-background transition-colors duration-300"
+>
+  Book a Session
+</a>
       </div>
 
       {/* Footer */}
