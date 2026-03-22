@@ -10,7 +10,7 @@ const HeroSection = () => {
         loading="eager"
       />
       <div className="absolute inset-0 bg-foreground/40" />
-      <div className="relative z-10 flex flex-col items-center justify-center h-full text-center px-6">
+      <div className="relative z-10 flex flex-col items-center justify-center h-full text-center px-6 pt-[35vh]">
         <h1 className="font-display text-4xl sm:text-6xl md:text-8xl font-light tracking-[0.15em] uppercase text-primary-foreground">
           Anna Rangel
         </h1>
