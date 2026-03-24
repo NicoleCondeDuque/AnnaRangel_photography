@@ -11,7 +11,7 @@ const AboutSection = () => {
 </p>
 
 <p>
-  I’m drawn to the kind of moments you don’t plan — the giggles, the little hands,
+  I’m drawn to the kind of moments you don’t plan the giggles, the little hands,
   the way your child looks at you when no one is watching. Those are the memories
   that matter, and the ones I love to capture the most.
 </p>
